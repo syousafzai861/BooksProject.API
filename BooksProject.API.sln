@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksProject.API", "BooksProject.API\BooksProject.API.csproj", "{BE9017D7-3EDB-4305-AA20-39E1ABB6DD08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9017D7-3EDB-4305-AA20-39E1ABB6DD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9017D7-3EDB-4305-AA20-39E1ABB6DD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9017D7-3EDB-4305-AA20-39E1ABB6DD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9017D7-3EDB-4305-AA20-39E1ABB6DD08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E87F83-0D2F-4E8B-8D56-A45BF3240954}
+	EndGlobalSection
+EndGlobal
